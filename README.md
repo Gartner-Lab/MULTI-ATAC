@@ -1,2 +1,2 @@
 # MULTI-ATAC
-Companion code for Conrad, et al.
+Companion code and R objects to reproduce key figures in Conrad, et al. 2025
